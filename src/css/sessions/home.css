@@ -2,8 +2,8 @@
 	display: flex;
 	min-height: calc(100vh - 125px);
 	align-items: center;
-	justify-content: space-between;
-    padding: 20px;
+	/* justify-content: space-between; */
+    /* padding: 20px; */
 }
 
 .home .info-profile {
@@ -57,7 +57,7 @@
 }
 
 .home .container-photo .photo{
-    max-width: 450px;
+    min-width: 100%;
 	border-radius: 50%;
 }
 
@@ -69,7 +69,7 @@
 
 .home .photo.inner-shadow{
     background: linear-gradient(to right, #52197a, #15693b, #084e38);
-	background-size: 180% 180%;
+	background-size: 200% 200%;
 	animation: gradient-animation 5s ease infinite;
 }
 
@@ -112,7 +112,7 @@
     }
 	.home .container-photo .photo {
 		margin: 30px;
-        max-width: 350px;
+        min-width: 300px;
     }
 }
 
@@ -147,7 +147,7 @@
     }
 
     .home .container-photo .photo {
-        max-width: 100%; 
+        min-width: 300px; 
         border-radius: 50%;
     }
 
