@@ -1,0 +1,44 @@
+{
+    "en": {
+        "title": "Matheus Martins Guimarães - Developer Frontend",
+        "aboutTitle": "ABOUT ME",
+        "aboutContent": "My name is Matheus Guimarães and I'm a fullstack developer in training!\n I’m a frontend developer with a strong interest in technology and a constant desire to learn new skills. I started my web development journey five months ago, and each line of code I write confirms that I’m on the right track. Frontend development fascinates me because it allows me to turn ideas into usable and visually appealing interfaces. I’m constantly experimenting with new technologies and frameworks, and challenging myself with projects that require me to expand my skills and knowledge. In my pursuit of becoming a full-stack developer, I’ve also started learning about backend development. My goal is to gain a comprehensive understanding of the development process.\n In addition to my love for computing, I enjoy outdoor adventures and travel. Hiking, exploring new cultures and traditions, and constantly seeking out magnificent landscapes are some of my favorite pleasures. Football is another passion of mine, and it has taught me the value of perseverance, determination, and collaboration. I’m always ready for the next adventure, whether it’s with code, on the field, or on the trail!",
+        "skillsTitle": "Skills",
+        "projectsTitle": "MY PROJECTS",
+        "showMoreButton": "Show more",
+        "homeGreeting": "Hello 🤝🏽, I'm Developer Matheus Guimarães",
+        "homeRole": "Developer frontend",
+        "menuAbout": "About",
+        "menuSkills": "Skills",
+        "menuProjects": "Projects",
+        "menuCurriculum": "Curriculum"
+    },
+    "it": {
+        "title": "Matheus Martins Guimarães - Sviluppatore Frontend",
+        "aboutTitle": "CHI SONO",
+        "aboutContent": "Mi chiamo Matheus Guimarães e sono uno sviluppatore fullstack in formazione!\n Sono uno sviluppatore frontend con un forte interesse per la tecnologia e un costante desiderio di apprendere nuove competenze. Ho iniziato il mio percorso nello sviluppo web cinque mesi fa, e ogni riga di codice che scrivo conferma che sono sulla strada giusta. Lo sviluppo frontend mi affascina perché mi permette di trasformare idee in interfacce utilizzabili e visivamente attraenti. Sperimentare costantemente nuove tecnologie e framework, e sfidarmi con progetti che mi richiedono di ampliare le mie competenze e conoscenze. Nel mio percorso per diventare uno sviluppatore full-stack, ho anche iniziato a imparare lo sviluppo backend. Il mio obiettivo è ottenere una comprensione completa del processo di sviluppo.\n Oltre al mio amore per la tecnologia, mi piacciono le avventure all'aria aperta e i viaggi. Fare escursioni, esplorare nuove culture e tradizioni, e cercare costantemente paesaggi magnifici sono alcuni dei miei piaceri preferiti. Il calcio è un'altra mia passione, che mi ha insegnato il valore della perseveranza, della determinazione e della collaborazione. Sono sempre pronto per la prossima avventura, che sia con il codice, in campo o lungo un sentiero!",
+        "skillsTitle": "Competenze",
+        "projectsTitle": "I MIEI PROGETTI",
+        "showMoreButton": "Mostra di più",
+        "homeGreeting": "Ciao 🤝🏽, sono lo sviluppatore Matheus Guimarães",
+        "homeRole": "Sviluppatore frontend",
+        "menuAbout": "Chi sono",
+        "menuSkills": "Competenze",
+        "menuProjects": "Progetti",
+        "menuCurriculum": "Curriculum"
+    },
+    "pt": {
+        "title": "Matheus Martins Guimarães - Desenvolvedor Frontend",
+        "aboutTitle": "SOBRE MIM",
+        "aboutContent": "Meu nome é Matheus Guimarães e sou um desenvolvedor fullstack em formação!\n Sou um desenvolvedor frontend com um forte interesse por tecnologia e um constante desejo de aprender novas habilidades. Comecei minha jornada no desenvolvimento web há cinco meses, e cada linha de código que escrevo confirma que estou no caminho certo. O desenvolvimento frontend me fascina porque me permite transformar ideias em interfaces utilizáveis e visualmente atraentes. Estou constantemente experimentando novas tecnologias e frameworks, e desafiando a mim mesmo com projetos que exigem que eu amplie minhas habilidades e conhecimentos. No meu caminho para me tornar um desenvolvedor full-stack, também comecei a aprender desenvolvimento backend. Meu objetivo é obter uma compreensão completa do processo de desenvolvimento.\n Além do meu amor por tecnologia, gosto de aventuras ao ar livre e viagens. Fazer trilhas, explorar novas culturas e tradições, e buscar constantemente paisagens magníficas são alguns dos meus prazeres favoritos. O futebol é outra paixão minha, que me ensinou o valor da perseverança, da determinação e da colaboração. Estou sempre pronto para a próxima aventura, seja com código, em campo ou na trilha!",
+        "skillsTitle": "Habilidades",
+        "projectsTitle": "MEUS PROJETOS",
+        "showMoreButton": "Mostrar mais",
+        "homeGreeting": "Olá 🤝🏽, eu sou o Desenvolvedor Matheus Guimarães",
+        "homeRole": "Desenvolvedor frontend",
+        "menuAbout": "Sobre",
+        "menuSkills": "Habilidades",
+        "menuProjects": "Projetos",
+        "menuCurriculum": "Currículo"
+    }
+}

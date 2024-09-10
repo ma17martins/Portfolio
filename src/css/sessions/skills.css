@@ -1,0 +1,41 @@
+.skills {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    justify-content: space-between;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 100px;
+}
+
+.skills h1 {
+    
+    font-size: 45px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.skills .container-skills {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 70px;
+}
+
+.skills .container-skills .information {
+    max-width: 350px;
+    padding: 20px 10px;
+}
+
+.skills .container-skills .information .logo i {
+    font-size: 70px;
+    color:#fff;
+    transition: color 0.3s ease;
+}
+
+.skills .container-skills .information .logo i:hover{
+    color: #070707;
+}

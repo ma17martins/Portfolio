@@ -1,0 +1,14 @@
+
+html {
+    scroll-behavior: smooth;
+    color: #fffffff6;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0 auto;
+    max-width: 1120px;
+    background: linear-gradient(170deg, #000000, #9e00ff);
+    background-size: 120% 120%;
+}
+
