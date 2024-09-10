@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (curriculoLink) {
         curriculoLink.addEventListener('click', function (event) {
             event.preventDefault();
-            window.open('./src/image/Matheus.pdf', '_blank');
+            window.open('../src/image/matheus-curriculum.pdf', '_blank');
         });
     }
 
