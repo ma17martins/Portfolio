@@ -70,6 +70,7 @@ flex-direction: row;
 	
     .header .logo{
         width: 30px;
+		padding: auto;
         height: 30px;
         line-height: 25px;
 		font-size: 15px;

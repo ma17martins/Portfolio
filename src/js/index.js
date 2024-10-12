@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (curriculoLink) {
         curriculoLink.addEventListener('click', function (event) {
             event.preventDefault();
-            window.open('./src/image/Curriculum.pdf', '_blank');
+            window.open('./src/image/curriculum-Matheus.pdf', '_blank');
         });
     }
 
@@ -58,7 +58,7 @@ function updateElementText(selector, text) {
 
 function updatePageContent(data, language) {
     updateTitle(data[language].title);
-    updateElementText('h1.logo', 'MG'); 
+    updateElementText('h1.logo', 'MG');
 
     // Menu
     updateElementText('a[href="#About"]', data[language].menuAbout);
